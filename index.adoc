@@ -1,0 +1,15 @@
+= amazing life
+:docytype: book
+:encoding: utf-8
+:toc: left
+:toplevels: 1
+:numbered:
+
+== 知识记录
+
+=== java
+
+== 文档收集
+
+=== git
+－ link:copy/git/git-tutorial.html[Git教程^]
